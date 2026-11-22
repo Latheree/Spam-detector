@@ -1,3 +1,3 @@
 # Spam-detector
 
-Arranging the Span detector
+Arranging the Spam detector
