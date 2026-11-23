@@ -1,3 +1,3 @@
 # Spam-detector
 
-Arranging the Spam detector
+Arranging the Spam detec
